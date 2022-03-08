@@ -1,0 +1,7 @@
+This Chrome Extension blocks Netflix, Prime Video, Hotstar and displays message to the user.
+
+To use this extension,follow the below steps:
+1. Go to Settings->Extensions.
+2. Enable developer mode on top right corner. 
+3. Click on Load unpacked and provide the path of the SiteBlocker directory.
+4. Enable the Site Developer extension
