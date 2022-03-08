@@ -1,0 +1,1 @@
+ document.write("Ye sab dhokha hai, padh le beta yhi mauka hai");
